@@ -3,7 +3,7 @@
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <h1>Tolganay+Marat_Myssyk</h1>
+    <h1>Tokash</h1>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
@@ -16,7 +16,7 @@ id="psw" required>
 id="psw-repeat" required>
     <hr>
 
-    <p>By creating an account you agree to our <a href="#">Terms & 
+    <p>By creating anyou agree to our <a href="#">Terms &
 Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
