@@ -3,7 +3,7 @@
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <h1>Tolganay+Marat Muntinova</h1>
+    <h1>Tolganay+MaratMuntinova</h1>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
