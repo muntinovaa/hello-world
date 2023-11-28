@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
     <h1>Tokash+</h1>
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Email Tolganay</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <label for="psw"><b>Password</b></label>
